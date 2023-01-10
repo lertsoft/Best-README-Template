@@ -115,6 +115,32 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- PROJECT FILE DIRECTORY -->
+### Directory
+
+```
+.
+├── README.md            # README file
+├── Example.config.js    # Example JS configuration
+├── public               # Public folder
+│   └── assets
+│       └── images       # Image used by Example template
+├── src
+│   ├── Example          # Example
+│   ├── Example          # Example button component
+│   ├── Example          # Example cta component
+│   ├── Example          # Example feature component
+│   ├── Example          # Example footer component
+│   ├── Example          # Example hero component
+│   ├── Example          # Example component
+│   ├── Example          # Example component
+│   ├── Example          # Example pages
+│   ├── Example          # Example
+│   ├── Example          # Example template
+│   └── Example          # Example folder
+├── Example.config.js    # Example configuration
+└── Example.json         # Example configuration
+```
 
 
 <!-- GETTING STARTED -->
